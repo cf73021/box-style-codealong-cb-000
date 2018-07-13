@@ -227,6 +227,17 @@ header {
   text-align: center;
 }
 
+#navbar nav {
+  border-left: 1px solid #ccc;
+}
+
+#navbar nav a {
+  display: inline-block;
+  width: 16.66667%;
+  margin: 0;
+  padding: 22px 0;
+}
+
 /*////////// LOGO //////////*/
 
 
